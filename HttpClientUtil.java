@@ -1,4 +1,4 @@
-package com.mastercard.elasticsearch;
+package com.demo;
 
 import java.net.URI;
 import java.util.ArrayList;
