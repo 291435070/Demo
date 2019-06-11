@@ -12,8 +12,9 @@ HttpClient工具类，支持post，get请求。
 
 4.git commit -m "update code"
 
-5.git push origin master
+5.git push -u origin master
 
+![]
 
 ######
 新项目上传GitHub步骤如下
